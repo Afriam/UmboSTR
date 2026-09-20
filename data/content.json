@@ -1,0 +1,71 @@
+{
+  "name": "UMBO STR ORGANIZATION",
+  "fullName": "United Mangali Brotherhood/Sisterhood Organization (UMBO-STR)",
+  "location": "Mangali, Tanudan, Kalinga",
+  "founded": "2023",
+  "about": "UMBO is a non-government, non-profit organization based in Mangali, Tanudan, Kalinga, established in 2023. It brings the youth and adults of Y-Mangali together through sports.",
+  "mission": "[Mission statement]",
+  "vision": "[Vision statement]",
+  "objectives": [
+    "Encourage every Y-Mangali youth and adult to take part in sports and physical activity.",
+    "Promote teamwork and sportsmanship.",
+    "Foster personal development and self-confidence.",
+    "Provide opportunities for socialization and fun.",
+    "Instill discipline, resilience and respect for others."
+  ],
+  "people": [
+    {
+      "name": "[Full name]",
+      "position": "[President]",
+      "group": "Officers"
+    },
+    {
+      "name": "[Full name]",
+      "position": "[Vice President]",
+      "group": "Officers"
+    },
+    {
+      "name": "[Full name]",
+      "position": "[Secretary]",
+      "group": "Officers"
+    },
+    {
+      "name": "[Full name]",
+      "position": "[Treasurer]",
+      "group": "Officers"
+    },
+    {
+      "name": "[Full name]",
+      "position": "[Member]",
+      "group": "Members"
+    },
+    {
+      "name": "[Full name]",
+      "position": "[Member]",
+      "group": "Members"
+    }
+  ],
+  "contact": {
+    "email": "[email@example.com]",
+    "phone": "[Phone number]",
+    "address": "[Address]",
+    "facebook": "https://www.facebook.com/share/1DkrHBzGrU/"
+  },
+  "activities": [
+    {
+      "title": "[Activity 1 title]",
+      "date": "[Date]",
+      "description": "[Activity 1 description]"
+    },
+    {
+      "title": "[Activity 2 title]",
+      "date": "[Date]",
+      "description": "[Activity 2 description]"
+    },
+    {
+      "title": "[Activity 3 title]",
+      "date": "[Date]",
+      "description": "[Activity 3 description]"
+    }
+  ]
+}
